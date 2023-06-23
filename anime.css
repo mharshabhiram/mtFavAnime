@@ -1,0 +1,47 @@
+html{
+    font-size: medium;
+}
+
+body{
+    background-color: rgb(56, 56, 56);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+p{
+    color:aliceblue;
+    font-size: 20px;
+}
+
+h1{
+    color:rgb(250, 209, 148);
+    font-size: 45px;
+    text-align: center;
+    font-style: oblique;
+}
+
+h3{
+    color:aquamarine;
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    color:rgb(163, 219, 241);
+}
+a:visited{
+    color:darkgray;
+}
+a:hover, a:active{
+    color: #eee;
+}
+address{
+    color:aliceblue;
+    font-size: 15px;
+    text-align: "right";
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+  }
